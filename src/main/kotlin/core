@@ -1,0 +1,5 @@
+package core
+
+class Test {
+    fun check() = "OK"
+}
